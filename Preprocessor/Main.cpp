@@ -65,17 +65,17 @@ int main() {
 
 
 	// Константы и конструкции препроцессора
-	/*
+	
 	std::cout << "PI = " << PI << std::endl;
 	forever {
 		std::cout << '.';
 		std::cout << fori;
 
 	}
-	*/
+	
 
 	//Макросы препроцессора
-	/*
+	
 	std::cout << "Введите два числа -> ";
 	std::cin >> n >> m;
 	std::cout << n << " + " << m << " = " << sum(n, m) << std::endl;
@@ -89,7 +89,7 @@ int main() {
 	//std::cout << "Pi = " << PI << std::endl;  // Ошибка
 #define PI 3.1416
 	std::cout << "Pi = " << PI << std::endl;
-	*/
+	
 
 
 	func();
